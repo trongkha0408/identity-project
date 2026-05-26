@@ -22,7 +22,7 @@ export default function Navbar({ page, onNavigate }) {
     <nav style={{ display: "flex", alignItems: "center", justifyContent: "space-between", padding: "0 2rem", height: 60, background: "rgba(255,255,255,0.04)", borderBottom: "1px solid rgba(255,255,255,0.08)", position: "sticky", top: 0, zIndex: 100 }}>
       <div style={{ fontWeight: 700, fontSize: 18, color: "#c084fc", letterSpacing: "-0.5px", cursor: "pointer" }}
         onClick={() => onNavigate(user ? "dashboard" : "login")}>
-        ⚡ AuthApp
+        ⚡ Identity
       </div>
       <div style={{ display: "flex", gap: 4, alignItems: "center" }}>
         {links.map(({ id, label }) => (
