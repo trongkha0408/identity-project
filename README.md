@@ -6,6 +6,10 @@ This project provides a complete authentication and authorization solution with 
 
 🚀 Live Demo: https://coreidentity.duckdns.org/
 
+Account test:
+username: admin
+password: admin
+
 🛠️ Tech Stack
 
 Backend
