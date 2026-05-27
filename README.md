@@ -4,7 +4,7 @@ A full-stack Identity & User Management System built with Spring Boot, ReactJS, 
 
 This project provides a complete authentication and authorization solution with user management, role/permission control, email verification, refresh token authentication, and admin dashboard UI.
 
-🚀 Live Demo: http://34.87.29.41/
+🚀 Live Demo: https://coreidentity.duckdns.org/
 
 🛠️ Tech Stack
 
